@@ -1,0 +1,21 @@
+.claro, .oscuro {
+  padding: .5rem 9%;
+  min-height: 15rem;
+}
+
+.claro {
+  background: #f7f7f7;
+  color: #222;
+}
+
+.oscuro {
+  background: #222;
+  color: #f7f7f7;
+}
+
+.claro > button, .oscuro > button {
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: 1px solid;
+  padding: 0 .7rem;
+}

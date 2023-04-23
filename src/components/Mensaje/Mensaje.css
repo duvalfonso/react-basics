@@ -1,0 +1,8 @@
+.contenedor-mensaje {
+  padding: .5rem 9%;
+}
+
+.contenedor-mensaje button {
+  font-size: 1.2rem;
+  padding: 0 .7rem;
+}
